@@ -8,8 +8,8 @@ from temp_class import Tmp36Sensor
 from time import sleep
 import time
 
-ssid ='INALAN_2.4G_iunyeg'
-password = 'InalanAek1924!@'
+ssid ='your_ssid'
+password = 'your_password'
 # Global variable
 page = ""
 current_day=""
